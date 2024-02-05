@@ -11,7 +11,7 @@
 
 ## 获取和使用
 
-本项目提供了jar和exe格式的可执行文件，可以在[发行版](https://gitee.com/dreamagician/electronic-firecrackers/releases)中下载  
+本项目提供了jar和exe格式的可执行文件，可以在[发行版](https://github.com/zxyaen/firecrackers/releases/tag/1.0.0)中下载  
 无需安装，启动成功后使用浏览器访问`http://localhost:8080`即可开始游玩  
 点击页面右下角`?`按钮可以查看更多帮助
 
